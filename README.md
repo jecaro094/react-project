@@ -1,3 +1,17 @@
+## react-project
+
+System to track pokemons stats using [pokeapi public API](https://github.com/jecaro094/react-project/edit/main/README.md) as external service.
+
+Used react for dashboards creation, and fastapi for backend system.
+
+Pokedex data available:
+
+<img width="1858" height="890" alt="Screenshot 2025-12-21 at 16 48 24" src="https://github.com/user-attachments/assets/b0a31bdf-ca7f-4074-97ab-fa617e659edc" />
+
+Select pokemon for further info:
+
+<img width="997" height="839" alt="Screenshot 2025-12-21 at 16 44 26" src="https://github.com/user-attachments/assets/9298aa8e-4e32-444f-9154-9d826388776e" />
+
 ## Current state of the app (03-08-2024)
 
 - I can run the app locally running `docker-compose up --build`, from the root of the repo.
